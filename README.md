@@ -1,6 +1,6 @@
-# todo_app
+# To-do_App
 
-A new Flutter project.
+A Simple Flutter To-do App
 
 ## Getting Started
 
